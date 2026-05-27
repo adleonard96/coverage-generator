@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Grid Height="434" VerticalAlignment="Bottom">
+            <Button Content="Add/Edit People" HorizontalAlignment="Left" Height="434" VerticalAlignment="Center" Width="259"/>
+            <Button Content="Add Time Off" HorizontalAlignment="Left" Height="434" Margin="259,0,0,0" VerticalAlignment="Center" Width="287"/>
+            <Button Content="Generate Schedule" HorizontalAlignment="Left" Height="434" Margin="546,0,0,0" VerticalAlignment="Center" Width="254"/>
+        </Grid>
 
     </Grid>
 </Window>
